@@ -141,7 +141,7 @@ a{
     align-items: center;
     text-align: center;
     position: relative;
-    background: url(/you\ website/background.jpg);
+    background: url(background.jpg);
   }
   
 .hero-content h2 {
