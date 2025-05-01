@@ -70,9 +70,9 @@ var TxtType = function(el, toRotate, period) {
     
     const texts = [
          "Love what you do.",
-          "Hard work pays off."
-        "Focus on Positivity "
-        "Embrace Change and Action"
+          "Hard work pays off.",
+         "Focus on Positivity ",
+         "Embrace Change and Action."
     ];
     
     let textIndex = 0;
