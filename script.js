@@ -69,10 +69,14 @@ var TxtType = function(el, toRotate, period) {
     });
     
     const texts = [
+    "Welcome to my website!",
+        "I create awesome web designs.",
+        "Check out my latest project.",
+         "I hope you had a wonderful day.", 
          "Love what you do.",
           "Hard work pays off.",
-         "Focus on Positivity ",
-         "Embrace Change and Action."
+          "Failure is an opportunity.",
+          "And be good to yourself."
     ];
     
     let textIndex = 0;
